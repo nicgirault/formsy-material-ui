@@ -1,5 +1,7 @@
 ## Changelog
 
+* 0.6.1  Fix unknown props warning on autocomplete (Issue #177)
+
 * 0.6.0  Support material-ui ^0.17.0 & formsy-react ^0.19.0
 
 * 0.5.5  revert FormsyText internal value setting method
